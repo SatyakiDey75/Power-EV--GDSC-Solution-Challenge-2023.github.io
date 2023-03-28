@@ -6,8 +6,8 @@ Our primary objective is to enhance the charging experience of EV owners by offe
 thereby reducing their waiting time at charging stations.
 
 ## Usage
-- [Click on Me!](https://satyakidey75.github.io/Power-EV-GDSC-Solution-Challenge-2023.github.io/) and you will get to the website :)
-- Or paste the link &nbsp;```https://satyakidey75.github.io/Power-EV-GDSC-Solution-Challenge-2023.github.io/ ```  &nbsp;in the address bar of your browser.
+- [Click on Me!](https://satyakidey75.github.io/Power-EV-GDSC-Solution-Challenge-2023/) and you will get to the website :)
+- Or paste the link &nbsp;```https://satyakidey75.github.io/Power-EV-GDSC-Solution-Challenge-2023/ ```  &nbsp;in the address bar of your browser.
 
 ##
 ## FAQ
